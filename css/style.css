@@ -10,23 +10,7 @@ header{
     height: 50px;
     
 }
-.buttons{
-    align-self: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: 250px;
-  
-}
-.buttons button{
-    padding: 0.5rem 1rem;
-    margin: 0.5rem;
-    background-color: rgb(192, 95, 221);
-    color: white;
-    border: none;
-}
+
 a{
     color: white;
 }
